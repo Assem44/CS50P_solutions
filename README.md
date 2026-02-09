@@ -11,5 +11,3 @@ The solutions are organized by week, where each folder contains the problems sol
 * **Week 3 - Exceptions**: Handling errors gracefully.
 * **Week 4 - Libraries**: Using external modules and APIs.
 * **Week 5 - Unit Tests**: Ensuring code reliability with `pytest` (e.g., `test_bank`).
----
-*“Success is a journey, not a destination. Keeping the code clean and the logic sharp!”*
