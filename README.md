@@ -1,4 +1,4 @@
-# 🐍 CS50P Solutions - Harvard University
+# <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30" height="30" /> CS50P Solutions - Harvard University
 
 ## 🎓 About the Course
 CS50P is a deep dive into programming with Python, covering topics from basic syntax and functions to more advanced concepts like Unit Testing, File I/O, and Object-Oriented Programming (OOP).
