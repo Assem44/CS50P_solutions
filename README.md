@@ -11,4 +11,5 @@ The project is organized by Problem Sets to match the course curriculum:
 * **problem_set_3**: Exceptions and Error Handling.
 * **problem_set_4**: Libraries and External Modules.
 * **problem_set_5**: Unit Testing with `pytest`.
+* **problem_set_6**: File I/O (Working with CSVs and images).
 
